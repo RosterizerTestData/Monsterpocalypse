@@ -1,3 +1,3 @@
 # Monsterpocalypse
 
-https://raw.githubusercontent.com/RosterizerTestData/Monsterpocalypse/main/Monsterpocalypse.manifest
+https://raw.githubusercontent.com/RosterizerTestData/Monsterpocalypse/main/Monsterpocalypse-2.manifest
