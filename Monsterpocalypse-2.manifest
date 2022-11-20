@@ -146,1011 +146,759 @@
     },
     "assetCatalog": {
       "Ability§Abduction Matrix": {
-        "classification": "Ability",
         "text": "While this model is in play, other allied models gain +1 to their Action: Abduct limit."
       },
       "Ability§Aim": {
-        "classification": "Ability",
         "text": "This model gains +1 Boost Die when particiapating in blast attacks if it did not advance this activation."
       },
       "Ability§Air Superiority": {
-        "classification": "Ability",
         "text": "This model gains +1 Boost Die when participating in attacks targeting a model with Flight. Attacks made by models without Flight lose one Boost Die when targeting this model and allied units within two spaces of it."
       },
       "Ability§All-Terrain": {
-        "classification": "Ability",
         "text": "This model treats rough terrain as open terrain while advancing."
       },
       "Ability§Amorphous": {
-        "classification": "Ability",
         "text": "Enemy monsters targeting this model with a power attack lose two Boost Dice on the attack roll."
       },
       "Ability§Amphibious": {
-        "classification": "Ability",
         "text": "This model treats all water spaces as Open Terrain."
       },
       "Ability§Amplify": {
-        "classification": "Ability",
         "text": "If one or more allied units with Amplify are holding power zones when you Power Up, gain one additional Power Die."
       },
       "Ability§Annhilate": {
-        "classification": "Ability",
         "text": "This monster's attacks do super damage."
       },
       "Ability§Anti-Air": {
-        "classification": "Ability",
         "text": "This model gains +1 Boost Die when participating in brawl or blast attacks targeting a model with Flight."
       },
       "Ability§Arcane Void": {
-        "classification": "Ability",
         "text": "While this model is in play, allied units' blast and brawl attacks gain Siphon."
       },
       "Ability§Armored": {
-        "classification": "Ability",
         "text": "This monster is immune to damage from collisions with buildings."
       },
       "Ability§Artillery Barrage": {
-        "classification": "Ability",
         "text": "If two or more models with Artillery Barrage participate in an attack, and the attack hits, after the attack is resolved, you can move one Action Die from your Monster Pool to your Unit Pool."
       },
       "Ability§Artillery Support": {
-        "classification": "Ability",
         "text": "Once each turn, a model participating in a blast attack while within two spaces of this model gains +2 Boost Dice."
       },
       "Ability§Battle Command": {
-        "classification": "Ability",
         "text": "Brawl and Blast attacks of allied Faction models within two spaces of this model gain Hit & Run."
       },
       "Ability§Beachhead": {
-        "classification": "Ability",
         "text": "If this model is holding an objective space, once during each of your Spawn Phases, you can spawn a Faction unit adjacent to this model instead of using one of your span points."
       },
       "Ability§Bifurcate": {
-        "classification": "Ability",
         "text": "This monster begins the game with only one model in play. When this monster goes hyper, place the second model in play within four spaces of the first model. Any remaining damage is applied to the first model's Health Track. Both models share all stats and rules on this card but are treated as separate monsters, and their damage is tracked separately."
       },
       "Ability§Big Game Hunter": {
-        "classification": "Ability",
         "text": "This model gains +2 Boost Dice when participating in blast attacks targeting a monster."
       },
       "Ability§Blast Radius": {
-        "classification": "Ability",
         "text": "If this model is destroyed, return all units adjacent to it to their unit reserves."
       },
       "Ability§Blood Rage": {
-        "classification": "Ability",
         "text": "While this model is in play, allied Faction units gain +1 Boost Die when participating in Brawl attacks."
       },
       "Ability§Boiling Blood": {
-        "classification": "Ability",
         "text": "Brawl attacks of allied Faction units within five spaces of this model gain Fury."
       },
       "Ability§Bulwark": {
-        "classification": "Ability",
         "text": "Enemy models cannot count spaced this model occupies when checking the range for an attack or trigger."
       },
       "Ability§Burrower": {
-        "classification": "Ability",
         "text": "This model is immune to swat attacks."
       },
       "Ability§Cargo": {
-        "classification": "Ability",
         "text": "This unit is cargo."
       },
       "Ability§Censure": {
-        "classification": "Ability",
         "text": "When you Power Up, your opponent loses one Power Die."
       },
       "Ability§Charity": {
-        "classification": "Ability",
         "text": "If you are securing one or more buildings with Charity, before your Power Phase or your Spawn Phase, you can push one Action Die from one of your dice pools to another."
       },
       "Ability§Cloak": {
-        "classification": "Ability",
         "text": "This model cannot be targeted by blast attacks made by a model more than two spaces away."
       },
       "Ability§Combat Coordination": {
-        "classification": "Ability",
         "text": "While this model is in play, allied Faction units' brawl attacks gain the Hit & Run special rule."
       },
       "Ability§Commander": {
-        "classification": "Ability",
         "text": "Allied same-named grunt units within two spaces of this unit gain +1 Boost Die when participating in brawl or blast attacks."
       },
       "Ability§Constrictor": {
-        "classification": "Ability",
         "text": "While adjacent to this model, enemy monsters cannot step. An enemy monster that begins an advance or rampage power attack adjacent to this model must spend one Action Die."
       },
       "Ability§Crunch": {
-        "classification": "Ability",
         "text": "When you roll a super strike on an Action Die on one of this monster's attack rolls, that attack does super damage."
       },
       "Ability§Death Blossom": {
-        "classification": "Ability",
         "text": "While this model is in play, allied Faction units' blast attacks gain Penetrator."
       },
       "Ability§Death Sentence": {
-        "classification": "Ability",
         "text": "Once per turn, when an allied monster attacks a monster that is adjacent to this unit, the attack does Super Damage."
       },
       "Ability§Deconstruction": {
-        "classification": "Ability",
         "text": "Once per turn, if you are securing one or more buildings with Deconstruction and one of your attacks destroys a building, you gain one additional Power Die."
       },
       "Ability§Defender": {
-        "classification": "Ability",
         "text": "Enemy models do not roll Boost Dice when making attacks targeting buildings and allied units without Defender that are adjacent to this model."
       },
       "Ability§Defense Array": {
-        "classification": "Ability",
         "text": "Allied Faction units gain Force Field while within 3 spaces of this model. (A model with Force Field gains +1 DEF against blast attacks.)"
       },
       "Ability§Defensive Stance": {
-        "classification": "Ability",
         "text": "Once per attack, you can move one Action Die from your Monster Pool to your Unit Pool. If you do, your opponent rerolls up to two Super Strike rolls."
       },
       "Ability§Demolisher": {
-        "classification": "Ability",
         "text": "When this model makes an attack, gain +1 Power Die for every building destroyed as a result of its attack."
       },
       "Ability§Destabilizer": {
-        "classification": "Ability",
         "text": "This model gains +1 Boost Die when participating in brawl or blast attacks that target a building."
       },
       "Ability§Destructive Impulse": {
-        "classification": "Ability",
         "text": "If this model destroys one or more buildings or enemy units with an attack, immediately after the attack is resolved, this model can make a brawl attack. This model can  make one attack generated by Destructive Impulse each turn."
       },
       "Ability§Devitalize": {
-        "classification": "Ability",
         "text": "While this model is in play, the blast and brawl attacks of  allied Faction units gain Power Drain."
       },
       "Ability§Dig In": {
-        "classification": "Ability",
         "text": "This model gains Cover while it is holding a power zone or negative zone."
       },
       "Ability§Discount": {
-        "classification": "Ability",
         "text": "Once per turn, if you are securing one or more buildings with Discount and spawn a unit, reduce its Cost by 1."
       },
       "Ability§Disruption": {
-        "classification": "Ability",
         "text": "Enemy models participating in an attack while within two spaces of this model lose one Boost Die on their attack rolls."
       },
       "Ability§Divider": {
-        "classification": "Ability",
         "text": "This model sits on a line between two spaces. It is considered to occupy those spaces when counting range and is adjacent to models in both spaces. This model cannot be placed on a line between two spaces in the same foundation. If a monster end a move in both of this model's spaces, remove this model from play."
       },
       "Ability§Divination": {
-        "classification": "Ability",
         "text": "Enemy models within five spaces of this model cannot gain cover and have their DEF reduced by 1 against blast attacks made by allied models, to a minimum of 1. Affected models lose Cloak and cannot gain Cloak."
       },
       "Ability§Dominant Species": {
-        "classification": "Ability",
         "text": "While this model is in play, allied Faction units' brawl attacks gain Penetrator."
       },
       "Ability§Double Duty": {
-        "classification": "Ability",
         "text": "This model can perform two different Actions during an activation."
       },
       "Ability§Draken Armada Base": {
-        "classification": "Ability",
         "text": "Once per turn, if you are securing one or more buildings with Draken Armada Base and spawn a Draken Armada unit, reduce its cost by 1."
       },
       "Ability§Dual Attack": {
-        "classification": "Ability",
         "text": "This model can participate in a brawl attack in addition to any other attack it participates in during each of your Unit Activations."
       },
       "Ability§Earthworks": {
-        "classification": "Ability",
         "text": "While this model is in play, allied Faction units gain +1 DEF against brawl attacks."
       },
       "Ability§Efficient": {
-        "classification": "Ability",
         "text": "If you roll two or more Action Dice on an attack this model is participating in and the attack hits an enemy model, after the attack is resolved you can move one Action Die from your Monster Pool to your Unit Pool. This effect can occur only once per attack."
       },
       "Ability§Electrical Node": {
-        "classification": "Ability",
         "text": "If a mechanical monster destroys this model with a brawl attack, after the attack is resolved restore one point of health to the monster. "
       },
       "Ability§Empire of the Apes Base": {
-        "classification": "Ability",
         "text": "Once per turn, if you are securing one or more buildings with Empire of the Apes Base and spawn a Empire of the Apes unit, reduce its cost by 1."
       },
       "Ability§Energy Cycle": {
-        "classification": "Ability",
         "text": "If you roll two or more Action Dice on an attack made by this model and the attack hits an enemy model, after the attack is resolved you can move one Action Die from your Unit Pool to your Monster Pool."
       },
       "Ability§Entropic Presence": {
-        "classification": "Ability",
         "text": "While this model is in play, enemy monsters cannot restore health."
       },
       "Ability§Envelop": {
-        "classification": "Ability",
         "text": "Enemies adjacent to this model have their DEF reduced by 1 against attacks made by allied models, to a minimum of 1."
       },
       "Ability§Ephemeral": {
-        "classification": "Ability",
         "text": "Other models can move through this model. If this model is destroyed, it is not replaced by a debris tile."
       },
       "Ability§Expend": {
-        "classification": "Ability",
         "text": "When this unit participates in a blast attack, return it to your unit reserves."
       },
       "Ability§Feed the Flames": {
-        "classification": "Ability",
         "text": "This model's attacks gain Penetrator if the target is on or adjacent to a hazard tile."
       },
       "Ability§Feedback": {
-        "classification": "Ability",
         "text": "If this model is destroyed by an adjacent monster, you gain one Power Die. That monster's controller loses one Power Die."
       },
       "Ability§Feeding Frenzy": {
-        "classification": "Ability",
         "text": "When this monster attacks a monster that is adjacent to any allied Faction unit, this model's attack does Super Damage."
       },
       "Ability§Fire Proof": {
-        "classification": "Ability",
         "text": "This model is immune to hazards regardless of other special rules."
       },
       "Ability§Fire Step": {
-        "classification": "Ability",
         "text": "When this model moves onto a rubble tile, flip it to the hazrd side. All models occupying the same space as the hazard suffer the effects of the hazard as if they had collided with it."
       },
       "Ability§Flank": {
-        "classification": "Ability",
         "text": "Enemies withing two spaces of this model have their DEF reduced by 1 against brawl attacks made by allied models, to a minimum of 1."
       },
       "Ability§Flight": {
-        "classification": "Ability",
         "text": "This model can end its movement on impassable terrain and is immune to hazards except when colliding with them."
       },
       "Ability§Focused Will": {
-        "classification": "Ability",
         "text": "Once per turn, if this model is hit by an attack, you can push 1 Action Die from your Unit Pool to your Monster Pool."
       },
       "Ability§Force Dome": {
-        "classification": "Ability",
         "text": "Models gain Force Field while within three spaces of this model."
       },
       "Ability§Force Field": {
-        "classification": "Ability",
         "text": "This model gain +1 DEF against blast attack."
       },
       "Ability§Forward Observer": {
-        "classification": "Ability",
         "text": "Enemy models within two spaces of this model lose Cloak."
       },
       "Ability§Fuel Depot": {
-        "classification": "Ability",
         "text": "If you are securing this building, allied models gain +1 SPD."
       },
       "Ability§G.U.A.R.D. Base": {
-        "classification": "Ability",
         "text": "Once per turn, if you are securing one or more buildings with G.U.A.R.D. Base and spawn a G.U.A.R.D. unit, reduce its cost by 1."
       },
       "Ability§Grappler": {
-        "classification": "Ability",
         "text": "Enemy models cannot move through this model or models adjacent to it. Enemy models are not immune to hazards adjacent to this model."
       },
       "Ability§Gravid": {
-        "classification": "Ability",
         "text": "If this monster is hit by an attack, after the attack is resolved, you can choose one Faction model from your unit reserves and place it in play in an unoccupied space adjacent to this model."
       },
       "Ability§Guerrilla Tactics": {
-        "classification": "Ability",
         "text": "While this model is in play, allied Faction units' blast attacks gain Indirect Fire."
       },
       "Ability§Hard to Kill": {
-        "classification": "Ability",
         "text": "If this model would be destroyed, it instead restores 1 point of health."
       },
       "Ability§Hazardous": {
-        "classification": "Ability",
         "text": "If an enemy monster collides with this model or hits it with a rampage power attack, that monster suffers 1 damage."
       },
       "Ability§Heightened Senses": {
-        "classification": "Ability",
         "text": "When this model attacks, ignore rules that prevent targeting or increase the target's DEF."
       },
       "Ability§High Density": {
-        "classification": "Ability",
         "text": "This building is not limited to four per player."
       },
       "Ability§High Impact": {
-        "classification": "Ability",
         "text": "While this model is in play, allied Faction units gain +1 Boost Die when participating in blast attacks."
       },
       "Ability§High Mobility": {
-        "classification": "Ability",
         "text": "This model can move through other models and treats all terrain as open terrain. This model is immune to hazards except when it ends its advancement on a hazard, but it still suffers all effects as a result of colliding with hazards and other models. A unit with High Mobility cannot end its movement on impassible terrain."
       },
       "Ability§High Occupancy": {
-        "classification": "Ability",
         "text": "If a non-mechanical monster destroys this model with a Brawl attack, after the attack has been resolved restore one point of health to the monster."
       },
       "Ability§Hive Mind": {
-        "classification": "Ability",
         "text": "This model gains +1 Boost Die on attacks for each other allied Faction unit within two spaces of this model."
       },
       "Ability§Hover": {
-        "classification": "Ability",
         "text": "This model can move into and end its movement on impassible terrain."
       },
       "Ability§Hunker": {
-        "classification": "Ability",
         "text": "This unit does not suffer damage from brawl and blast attack triggers."
       },
       "Ability§Hurdle": {
-        "classification": "Ability",
         "text": "A unit without Flight must count the space it is moving into twice if it crosses a line or corner this model occupies. Units with Flight and monsters ignore this model when moving, regardless of other special rules."
       },
       "Ability§Improvised Weapon": {
-        "classification": "Ability",
         "text": "If this model is on or adjacent to a debris tile, it gains +1 Boost Die when participating in an attack."
       },
       "Ability§Incombustable": {
-        "classification": "Ability",
         "text": "If this building is destroyed, replace it with rubble."
       },
       "Ability§Incubator": {
-        "classification": "Ability",
         "text": "When this model is destroyed, if the space is unoccupied, immediately replace it with a Faction model from your reserves that does not have the Incubator special rule."
       },
       "Ability§Inexorable": {
-        "classification": "Ability",
         "text": "This monster's alpha form Health cannot be restored."
       },
       "Ability§Insignificant": {
-        "classification": "Ability",
         "text": "This model is immune to collisions. Other models can move into and end their movement in a space occupied by this model, regardless of other special rules. This model is considered adjacent to any other model occupying its space."
       },
       "Ability§Inspiration": {
-        "classification": "Ability",
         "text": "If this model is holding a power zone or negative zone, once each turn, when an allied unit within five spaces of this model makes an attack that fails to hit, you can reroll that attack."
       },
       "Ability§Intel": {
-        "classification": "Ability",
         "text": "While you are securing this building, enemy models lose Cloak and cannot gain it."
       },
       "Ability§Intensify": {
-        "classification": "Ability",
         "text": "If this model is holding an objective space, other allied models within two spaces of it gain +1 Boost Die when participating in a brawl or blast attack."
       },
       "Ability§Jam": {
-        "classification": "Ability",
         "text": "Enemy models and buildings your opponent has secured cannot use Actions while within two spaces of this model."
       },
       "Ability§Juggernaut": {
-        "classification": "Ability",
         "text": "If a space this monster would move into while rampaging is occupied by a monster, this monster stops moving and any of the occupying monsters with a Def equal to or less than the number of strikes rolled for the rampage suffer 1 damage. If this monster is in its hyper form they suffer Super Damage."
       },
       "Ability§Kinetic Distortions": {
-        "classification": "Ability",
         "text": "While this model is in play, allied Faction units gain High Mobility."
       },
       "Ability§King of Beasts": {
-        "classification": "Ability",
         "text": "While this model is in play, allied Faction units gain +1 Boost Die when participating in attacks."
       },
       "Ability§King Tide": {
-        "classification": "Ability",
         "text": "While this model is in play, allied Faction units gain +1 DEF while in a water space and +1 SPD."
       },
       "Ability§Lead from the Front": {
-        "classification": "Ability",
         "text": "While within three spaces of this model, the blast and brawl attacks of allied units gain Precision Strike."
       },
       "Ability§Legion of Mutates Base": {
-        "classification": "Ability",
         "text": "Once per turn, if you are securing one or more buildings with Legion of Mutates Base and spawn a Legion of Mutates unit, reduce its cost by 1."
       },
       "Ability§Lift": {
-        "classification": "Ability",
         "text": "Allied units can move through models adjacent to this model when advancing."
       },
       "Ability§Lightning Attack": {
-        "classification": "Ability",
         "text": "This model can make a brawl attack in addition to any other attacks it makes during each of its activations."
       },
       "Ability§Limited Cognition": {
-        "classification": "Ability",
         "text": "This model cannot make a power attack if another Globbicus has made a power attack this turn."
       },
       "Ability§Lockdown": {
-        "classification": "Ability",
         "text": "The player with the most units adjacent to a building that is adjacent to this model can ignore one enemy model when determining if the building is secured."
       },
       "Ability§Lone Wolf": {
-        "classification": "Ability",
         "text": "This model cannot participate in combined attacks."
       },
       "Ability§Lords of Cthul Base": {
-        "classification": "Ability",
         "text": "Once per turn, if you are securing one or more buildings with Lords of Cthul Base and spawn a Lords of Cthul unit, reduce its cost by 1."
       },
       "Ability§Martian Menace Base": {
-        "classification": "Ability",
         "text": "Once per turn, if you are securing one or more buildings with Martian Menace Base and spawn a Martian Menace unit, reduce its cost by 1."
       },
       "Ability§Master of the 8th Dimension Base": {
-        "classification": "Ability",
         "text": "Once per turn, if you are securing one or more buildings with Masters of the 8th Dimension Base and spawn a Masters of the 8th Dimension unit, reduce its cost by 1."
       },
       "Ability§Mastermind": {
-        "classification": "Ability",
         "text": "While this model is in play, if two or more allied Faction models participate in a combined attack, the attack gets +1 Boost Die."
       },
       "Ability§Maximize": {
-        "classification": "Ability",
         "text": "Once per turn, if you roll two or more Action Dice on an attack made by an allied unit within two spaces of this model, after the attack is resolved you can move one Action Die from you Monster Pool to your Unit Pool."
       },
       "Ability§Mechanical": {
-        "classification": "Ability",
         "text": "This monster is mechanical."
       },
       "Ability§Micromanage": {
-        "classification": "Ability",
         "text": "While this model is in play, allied Faction units gain Double Duty. (A model with Double Duty can perform two different Actions during an activation.)"
       },
       "Ability§Mobile Fortress": {
-        "classification": "Ability",
         "text": "While adjacent to this model, allied units without Flight gain cover."
       },
       "Ability§Motivator": {
-        "classification": "Ability",
         "text": "Other allied models that begin their advance within two spaces of this model gain +1 SPD."
       },
       "Ability§Nano Construction": {
-        "classification": "Ability",
         "text": "While this model is in play, allied Faction units without flight gain Action: Repair."
       },
       "Ability§Neutral Garrison": {
-        "classification": "Ability",
         "text": "Buildings adjacent to this model can be secured by two units."
       },
       "Ability§Nullify": {
-        "classification": "Ability",
         "text": "When this attack destroys an enemy model, you may choose to gain no Power Dice from the attack. Instead, the enemy model's controller loses one Power Die."
       },
       "Ability§Obscure": {
-        "classification": "Ability",
         "text": "While this model is secured, it and allied units adjacent to it gain +1 DEF."
       },
       "Ability§Opportunity": {
-        "classification": "Ability",
         "text": "If you are securing this building, you can use each Action twice during each of your turns. However, each of your models can still perform only one Action each activation."
       },
       "Ability§Outreach": {
-        "classification": "Ability",
         "text": "If you are securing this building, allied monsters gain Reach. (A model with Reach can make a brawl attack targeting any model within two spaces. The model with Reach can participate in combined brawl attacks against models within two spaces.)"
       },
       "Ability§Outrider": {
-        "classification": "Ability",
         "text": "This model gains +1 Boost Die when participating in brawl or blast attacks targeting a unit adjacent to a building or in an objective space."
       },
       "Ability§Perilous": {
-        "classification": "Ability",
         "text": "If a monster collides with this model or hits it with a rampage power attack, that monster suffers 1 damage."
       },
       "Ability§Planet Eaters Base": {
-        "classification": "Ability",
         "text": "Once per turn, if you are securing one or more buildings with Planet Eaters Base and spawn a Planet Eaters unit, reduce its cost by 1."
       },
       "Ability§Pointer": {
-        "classification": "Ability",
         "text": "Enemy models within two spaces of this model cannot gain cover. Affected models lose Cloak and cannot gain it."
       },
       "Ability§Power Converter": {
-        "classification": "Ability",
         "text": "Once per turn, if you are securing one or more buildings with Power Converter and one of you attacks destroys an enemy model, you gain one additional power die."
       },
       "Ability§Power Hitter": {
-        "classification": "Ability",
         "text": "This model can spend one Power Die when participating in an attack. If it does, this attack does not generate any Power Dice."
       },
       "Ability§Power Producer": {
-        "classification": "Ability",
         "text": "If you are securing one or more buildings with Power Producer when you Power Up, you gain one additional Power Die."
       },
       "Ability§Power Pump": {
-        "classification": "Ability",
         "text": "When you Power Up, gain one additional die for each power zone held by one of your units that contains a model with Power Pump."
       },
       "Ability§Power Sink": {
-        "classification": "Ability",
         "text": "During each activation, the first time your opponent  rolls Power Dice for an attack, you gain one Power Die."
       },
       "Ability§Power Swell": {
-        "classification": "Ability",
         "text": "While this model is in play, allied Faction units' brawl attacks gain Power Gorge."
       },
       "Ability§Puncture": {
-        "classification": "Ability",
         "text": "While this model is in play, allied Faction units' attacks gain Penetrator."
       },
       "Ability§Quick Fire": {
-        "classification": "Ability",
         "text": "This model can participate in a blast attack in addition to any other attack it participates in during each of its activations."
       },
       "Ability§Quorum": {
-        "classification": "Ability",
         "text": "This model counts as two models when checking if a building is secured."
       },
       "Ability§Radar": {
-        "classification": "Ability",
         "text": "Other allied models within two spaces of this model gain +1 RNG to their blast attacks."
       },
       "Ability§Radar Network": {
-        "classification": "Ability",
         "text": "If you are securing this building, allied models not affected by Radar gain +1 RNG to their blast attacks."
       },
       "Ability§Rampager": {
-        "classification": "Ability",
         "text": "When this monster performs a rampage power attack, you gain +1 Power Die for every model destroyed."
       },
       "Ability§Rampant Destruction": {
-        "classification": "Ability",
         "text": "This model can advance up to three spaces before performing a rampage power attack."
       },
       "Ability§Rapid Fire": {
-        "classification": "Ability",
         "text": "This model can make a blast attack in addition to any other attack it makes during each of it's Activations."
       },
       "Ability§Reach": {
-        "classification": "Ability",
         "text": "This model can make a brawl attack targeting any model within two spaces. This model can participate in combined brawl attacks against models within two spaces."
       },
       "Ability§Redline": {
-        "classification": "Ability",
         "text": "After an Action this model performs is resolved, it suffers 1 damage point."
       },
       "Ability§Refuge": {
-        "classification": "Ability",
         "text": "A unit without Flight targeted by a brawl or blast attack while in a space occupied by this model rolls one Boost Die. The target gains +1 DEF for each strike rolled."
       },
       "Ability§Reposition": {
-        "classification": "Ability",
         "text": "If this model is targeted by an attack, after the attack is resolved this model can advance up to three spaces."
       },
       "Ability§Resilience": {
-        "classification": "Ability",
         "text": "This monster is immune to Super Damage."
       },
       "Ability§Resource Domination": {
-        "classification": "Ability",
         "text": "Once per turn, if you are securing one or more buildings with Resource Domination when you roll two or more Power Dice on an attack made by your monster and the attack hits an enemy model, after the attack is resolved, you can move one Power Die from your Dice Well to your Power Pool."
       },
       "Ability§Return Fire": {
-        "classification": "Ability",
         "text": "When this model is missed by a blast attack, it can immediately make a blast attack with the dice in play."
       },
       "Ability§Reverse Engineering": {
-        "classification": "Ability",
         "text": "This model has the actions of all other buildings in play. To perform an action, this model must spend one Power Die in addition to the normal Action Die cost."
       },
       "Ability§Righteous Fury": {
-        "classification": "Ability",
         "text": "Once per turn, when any buildings are destroyed by an enemy attack, you gain one Power Die for each building destroyed."
       },
       "Ability§Riled": {
-        "classification": "Ability",
         "text": "When this model is damaged or destroyed by an enemy attack, you gain one Power Die."
       },
       "Ability§Safeguard": {
-        "classification": "Ability",
         "text": "If you are securing one or more buildings when you Power Up, you gain one additional Power Die."
       },
       "Ability§Safety Device": {
-        "classification": "Ability",
         "text": "The space this model occupies is considered open terrain."
       },
       "Ability§Secondary Batteries": {
-        "classification": "Ability",
         "text": "Once each turn, when another allied model participates in a blast attack targeting a model within five spaces of this model, that attack gains +3 Boost Dice."
       },
       "Ability§Security Building": {
-        "classification": "Ability",
         "text": "If you are securing this building, allied units adjacent to this building gain +1 Boost Die when participating in brawl or blast attacks."
       },
       "Ability§Seismic Step": {
-        "classification": "Ability",
         "text": "Once during each of your Monster Activations, if this model makes a stomp power attack, immediately after the attack is resolved it can move up to one space and make another stomp power attack with the dice in play."
       },
       "Ability§Self-Destruct": {
-        "classification": "Ability",
         "text": "If this unit hits an enemy model with an attack, after the attack is resolved move this unit to your unit reserves."
       },
       "Ability§Shadow Field": {
-        "classification": "Ability",
         "text": "While adjacent to this model, allied units gain Cloak."
       },
       "Ability§Shadow Screen": {
-        "classification": "Ability",
         "text": "While this model is secured, enemy models do not roll Boost Dice when participating in blast attacks targeting this model or allied units B2B with it."
       },
       "Ability§Shadow Sun Syndicate Base": {
-        "classification": "Ability",
         "text": "Once per turn, if you are securing one or more buildings with Shadow Sun Syndicate Base and spawn a Shadow Sun Syndicate unit, reduce its cost by 1."
       },
       "Ability§Shield Resonance": {
-        "classification": "Ability",
         "text": "While adjacent to this model, allied Faction units gain Force Field."
       },
       "Ability§Side Step": {
-        "classification": "Ability",
         "text": "If this model is missed by an attack, after the attack is resolved this model can advance up to three spaces."
       },
       "Ability§Slingshot": {
-        "classification": "Ability",
         "text": "When this model performs a swat power attack or used the Fling trigger, the second target can be up to seven spaces away instead of five."
       },
       "Ability§Spawning Locus [Air]": {
-        "classification": "Ability",
         "text": "During your Spawn Phase, you can span a Faction unit with Air as part of its name adjacent to this model. You can only spawn one unit adjacent to this model as a result of this ability each turn."
       },
       "Ability§Spawning Locus [Juror]": {
-        "classification": "Ability",
         "text": "During your Spawn Phase, you can span a Faction unit with Juror as part of its name adjacent to this model. You can only spawn one unit adjacent to this model as a result of this ability each turn."
       },
       "Ability§Speed Bump": {
-        "classification": "Ability",
         "text": "When a unit begins its advance in or advances into a space with this model, that unit gains an additional space of movement during that advance. A unit can be affected by this rule more than once in the same turn."
       },
       "Ability§Spire": {
-        "classification": "Ability",
         "text": "A monster colliding with this building suffers +1 collision damage."
       },
       "Ability§Spotter": {
-        "classification": "Ability",
         "text": "Enemy models within two spaces of this model have their DEF reduced by 1 against blast atatcks made by allied models, to a minimum of 1."
       },
       "Ability§Stampede": {
-        "classification": "Ability",
         "text": "While this model is in play, allied Faction units gain +1 SPD."
       },
       "Ability§Static": {
-        "classification": "Ability",
         "text": "Other models must spend an additional Action Die to perform an action while within three spaces of this model."
       },
       "Ability§Steady": {
-        "classification": "Ability",
         "text": "Enemy monsters do not roll Boost Dice when making body slam power attacks against this model."
       },
       "Ability§Strip Mining": {
-        "classification": "Ability",
         "text": "While this model is in play, allied Faction units' brawl attacks gain the Destabilizer special rule."
       },
       "Ability§Strong Arm": {
-        "classification": "Ability",
         "text": "This model gains +2 Boost Dice when making throw and body slam power attacks."
       },
       "Ability§Subterran Uprising Base.": {
-        "classification": "Ability",
         "text": "Once per turn, if you are securing one or more buildings with Subterran Uprising Base and spawn a Subterran Uprising unit, reduce its cost by 1."
       },
       "Ability§Tactical Command": {
-        "classification": "Ability",
         "text": "While this model is in play, allied Faction units' blast attacks gain the Hit & Run special rule."
       },
       "Ability§Tag": {
-        "classification": "Ability",
         "text": "If this attack hits an enemy model, after the attack is resolved, you can advance another allied unit within three spaces of this model up to its SPD."
       },
       "Ability§Tailwinds": {
-        "classification": "Ability",
         "text": "While this model is in play, other allied models gain High Mobility. Affected models with the Flight special rule also gain +1 SPD."
       },
       "Ability§Tantrum": {
-        "classification": "Ability",
         "text": "When this model is hit by a body slam or throw power attack, after the attack is resolved you can move this monster up to two spaces, then return all non-Faction units adjacent to this monster to their unit reserves."
       },
       "Ability§Team Tactics": {
-        "classification": "Ability",
         "text": "If this model participates in a combined attack with one or more Faction units, this attack gains +1 Boost Dice."
       },
       "Ability§Terrasaurs Base": {
-        "classification": "Ability",
         "text": "Once per turn, if you are securing one or more buildings with Terrasaurs Base and spawn a Terrasaurs unit, reduce its cost by 1."
       },
       "Ability§Terrify": {
-        "classification": "Ability",
         "text": "While adjacent to this model, enemy units cannot roll Boost Dice in their attacks."
       },
       "Ability§Thick of It": {
-        "classification": "Ability",
         "text": "This model gains +1 Boost Die when participating in brawl or blast attacks for each enemy model within 2 spaces of it."
       },
       "Ability§Thick Skinned": {
-        "classification": "Ability",
         "text": "This model is immune to hazards except when colliding with them."
       },
       "Ability§Tooth and Claw": {
-        "classification": "Ability",
         "text": "This model gains +1 Boost Die for every two Action Dice in your attack roll."
       },
       "Ability§Toughen Up": {
-        "classification": "Ability",
         "text": "While this model is in play, allied Faction units gain Thick Skinned."
       },
       "Ability§Trade Policy": {
-        "classification": "Ability",
         "text": "When you Power Up, if you are securing this building, your opponent loses one Power Die."
       },
       "Ability§Treacherous Territory": {
-        "classification": "Ability",
         "text": "Enemy units treat spaces within two spaces of this model as rough terrain while advancing."
       },
       "Ability§Triton Base": {
-        "classification": "Ability",
         "text": "Once per turn, if you are securing one or more buildings with Tritons Base and spawn a Tritons unit, reduce its cost by 1."
       },
       "Ability§Tunneler": {
-        "classification": "Ability",
         "text": "Other allied models that begin an advance within two spaces of this model gain High Mobility during that advance."
       },
       "Ability§Turbulence": {
-        "classification": "Ability",
         "text": "Enemy models cannot more through this model when advancing."
       },
       "Ability§UberCorp International Base": {
-        "classification": "Ability",
         "text": "Once per turn, if you are securing one or more  buildings with UberCorp International Base and spawn an UberCorp International unit, reduce its cost by 1."
       },
       "Ability§Ultimate Weapon": {
-        "classification": "Ability",
         "text": "This model can make both a blast and a brawl attack in addition to any other attack it makes during each of your Monser Activations."
       },
       "Ability§Uncrushable": {
-        "classification": "Ability",
         "text": "This model is immune to stomp power attacks."
       },
       "Ability§Underground Network": {
-        "classification": "Ability",
         "text": "If you are securing this building, when an allied unit advances while base to base with this building it may treat any spaces adjacent to any building with Underground Network or adjacent to any allied model with Teleport as adjacent spaces."
       },
       "Ability§Unearthly Rage": {
-        "classification": "Ability",
         "text": "When this model is in play, other allied models gain Riled."
       },
       "Ability§Unrelenting Storm": {
-        "classification": "Ability",
         "text": "This model can make one brawl, blast, and power attack during each of your Monster Activations. Attacks made by this model gain +1 Boost Die for each attach it has already made this turn."
       },
       "Ability§Unstable": {
-        "classification": "Ability",
         "text": "If this unit is hit by an attack, return all enemy units adjacent to it to their unit reserves, then this unit is destroyed."
       },
       "Ability§Unwieldy": {
-        "classification": "Ability",
         "text": "Enemy monsters do not roll Boost Dice when making throw power attacks against this model."
       },
       "Ability§Vantage Point": {
-        "classification": "Ability",
         "text": "If you are securing this building, blast attack made by allied units adjacent to this building ignore cover."
       },
       "Ability§Waterlogged": {
-        "classification": "Ability",
         "text": "This model is immune to hazards while advancing. When this model advances onto a debris tile that is a hazard, flip it to the rubble side."
       },
       "Ability§Windup": {
-        "classification": "Ability",
         "text": "This monster's swat and throw power attacks do Super Damage"
       },
       "Ability§Wing Leader": {
-        "classification": "Ability",
         "text": "While this model is in play, allied Faction units with the Flight special rule gain +1 Boost Die when participating in blast attacks."
       },
       "Ability§Wrecking Crew": {
-        "classification": "Ability",
         "text": "While this model is in play, allied Faction units gain Demolisher."
       },
       "Ability§Zerkalo Bloc Base": {
-        "classification": "Ability",
         "text": "Once per turn, if you are securing one or more buildings with Zerkalo Bloc Base and spawn a Zerkalo Bloc unit, reduce its cost by 1."
       },
       "Action§Abduct [2]": {
-        "classification": "Action",
         "text": "This model can spend one Action Die to perform an Abduct action during its Activation. If this model is adjacent to an enemy unit with DEF 2 or less, return the enemy unit to your opponent's unit reserves."
       },
       "Action§Abduct [3]": {
-        "classification": "Action",
         "text": "This model can spend one Action Die to perform an Abduct action during its Activation. If this model is adjacent to an enemy unit with DEF 3 or less, return the enemy unit to your opponent's unit reserves."
       },
       "Action§Abduct [4]": {
-        "classification": "Action",
         "text": "This model can spend one Action Die to perform an Abduct action during its Activation. If this model is adjacent to an enemy unit with DEF 4 or less, return the enemy unit to your opponent's unit reserves."
       },
       "Action§Absorb": {
-        "classification": "Action",
         "text": "During your Monster Activation, this model can perform an Absorb action. Remove one adjacent rubble tile to restore one point of health to this monster."
       },
       "Action§Ambush": {
-        "classification": "Action",
         "text": "During your Monster or Unit Activation, this model can spend one Action Die to perform an Ambush action. Choose one adjacent allied unit and play it adjacent to a model with Ambush or an allied model with Teleport. The placed unit cannot make a full advance this turn."
       },
       "Action§Annex": {
-        "classification": "Action",
         "text": "During your Unit Activation, this model can spend one Action Die and one Power Die to perform an Annex action. Replace any unsecured building within five spaces of this model with a rubble tile, then swap the position of this model with the rubble tile. Then, choose up to three allied units adjacent to the rubble tile and place them adjacent to this building."
       },
       "Action§Asset Assembly": {
-        "classification": "Action",
         "text": "During your Unit Activation, this model can spend one Action Die to perform an Asset Assembly action. Place an asset in play following its Build rule."
       },
       "Action§Blitz": {
-        "classification": "Action",
         "text": "This model can spend one Action Die to perform a Blitz action. Advance an allied unit adjacent to this model up to its SPD, even if it has already advanced this turn."
       },
       "Action§City Planning": {
-        "classification": "Action",
         "text": "During your Monster or Unit Activation, this model can spend one Action Die to perform an Urban Renewal action. Swap the position of a building you are securing with any unsecured building on the map."
       },
       "Action§Command & Control": {
-        "classification": "Action",
         "text": "If you make an attack that fails to hit during your Unit or Monster Activation, this model can spend one Action Die to perform a Command & Control action. Reroll that attack roll."
       },
       "Action§Empower": {
-        "classification": "Action",
         "text": "During your Unit or Monster Activation, this model can spend one Action Die to perform an Empower action. Replace one allied grunt unit with an elite unit of the same type from your unit reserves."
       },
       "Action§Extinguisher": {
-        "classification": "Action",
         "text": "This model can spend one Action Die while adjacent to a debris tile to perform an Extinguisher action. If the tile is a hazard, flip it to the rubble side."
       },
       "Action§Extrude [Juror]": {
-        "classification": "Action",
         "text": "During your Monster Activation, this model can spend one Action Die to perform an Extrude action. Take one Juror from your unit reserves and place it in play adjacent to this model. This model suffers 1 damage point after this action is resolved."
       },
       "Action§Fission": {
-        "classification": "Action",
         "text": "During your Monster Activation, this model can spend one Action Die to perform a Fission action. Push two Action Dice from your Unit Pool to your Monster Pool."
       },
       "Action§Flak Field [1]": {
-        "classification": "Action",
         "text": "This model can spend one Action Die to perform a Flak Field action. Return all units adjacent to this model with DEF 1 or less to their unit reserves."
       },
       "Action§Flak Field [2]": {
-        "classification": "Action",
         "text": "This model can spend one Action Die to perform a Flak Field action. Return all units adjacent to this model with DEF 2 or less to their unit reserves."
       },
       "Action§Herding": {
-        "classification": "Action",
         "text": "When this model makes a full advance, before moving, it can spend one Action Die to perform a Herding action. Choose one or more units adjacent to this model. At the end of this model's full advance place each of the chose units adjacent to this model. You cannot place any units into a hazard as a result of Herding."
       },
       "Action§Ignite": {
-        "classification": "Action",
         "text": "This model can spend two Action Dice while on or adjacent to a debris tile to perform an Ignite action. If the tile is rubble, flip it to the hazard side. Models occupying the same space as the hazard suffer the effects of the hazard as if they  had collided with it."
       },
       "Action§Inner Fire": {
-        "classification": "Action",
         "text": "During this model's activation, it can spend one Action Die to perform an Inner Fire action. You gain five Power Dice."
       },
       "Action§Nesting": {
-        "classification": "Action",
         "text": "This unit can spend one Action Die to perform a Nesting action if it is holding a power zone or negative zone during your unit activation. Choose any Faction unit from your unit reserves and place it in play adjacent to this model. The placed model cannot advance this turn."
       },
       "Action§Objection": {
-        "classification": "Action",
         "text": "When your opponent declares an action, this model can spend one Power Die to perform an Objection action. Your opponent's action has no effect, and your opponent regains any dice spent on the action. The affected action cannot be performed again this turn."
       },
       "Action§Outfit": {
-        "classification": "Action",
         "text": "During your Unit Activation, this model can perform an Outfit action. Choose one allied unit. That unit gains Improvised Weapon this turn."
       },
       "Action§Overdrive": {
-        "classification": "Action",
         "text": "During this model's activation, this model can spend one Action Die to perform an Overdrive Action. Advance this model up to its SPD, even if it has already advanced this turn."
       },
       "Action§Patrol Base": {
-        "classification": "Action",
         "text": "During your unit Activation, this model can spend one Action Die to perform a Patrol Base action. Choose one unit from your unit reserves and place it in play adjacent to this model. The placed model cannot advance this turn."
       },
       "Action§Pounce": {
-        "classification": "Action",
         "text": "During your Monster Activation, this model can spend one Action Die to perform a Pounce action. Place this model in a space up to three spaces from its current position."
       },
       "Action§Propaganda": {
-        "classification": "Action",
         "text": "During your Unit Activation, this model can spend one Action Die to perform a Propaganda Action. You can push an Action Die from one of your opponent's dice pools to another."
       },
       "Action§Psychokinesis": {
-        "classification": "Action",
         "text": "During your Unit or Monster Activation, this model can spend one Action Die to perform a Psychokinesis action. Choose one unit within three spaces of this model. Move the chosen unit one space."
       },
       "Action§Raze": {
-        "classification": "Action",
         "text": "During your Unit Activation, this model can spend one Action Die and one Power Die to perform a Raze action. Remove any unsecured building from the map and replace it with a hazard tile. This action does not generate Power Dice."
       },
       "Action§Reciprocate": {
-        "classification": "Action",
         "text": "When this model is hit by a blast attack, it can immediately spend one Action Die from your Monster Pool to perform a reciprocate action. Make a blast attack with the dice in play."
       },
       "Action§Recycle": {
-        "classification": "Action",
         "text": "During your Monster or Unit Activation, this model can spend one Action Die to perform a Recycle action. Choose a unit within five spaces of this model. If it is your unit, return to your unit reserves. If it is not, roll the Action Die spend for this action and three Boost Dice. If the result is equal to or greater than the unit's DEF, return it to your opponent's unit reserves. If this action returns a unit to the reserves, gain a number of Power Dice equal to its cost."
       },
       "Action§Reinforce": {
-        "classification": "Action",
         "text": "During this model's activation, it can spend one Action Die to perform a Reinforce action. Take one Faction unit that does not have the Reinforce special rule from your unit reserves and place it in play adjacent to this model."
       },
       "Action§Repair": {
-        "classification": "Action",
         "text": "This model can spend one Action Die while adjacent to a debris pile to perform a Repair action. If the tile is a hazard, flip it to the rubble side. if the tile is rubble and unoccupied, remove it and return a destroyed building to play on that foundation."
       },
       "Action§Retrofit": {
-        "classification": "Action",
         "text": "During your Unit Activation, this model can spend one Action Die and one Power Die to perform a Retrofit action. Replace any building you control with any building you brought to the game that is not currently in play."
       },
       "Action§Sacrifice": {
-        "classification": "Action",
         "text": "This model can spend one Action Die to perform a Sacrifice action. Destroy one adjacent allied unit to restore one point of health to this monster."
       },
       "Action§Salvage": {
-        "classification": "Action",
         "text": "During your Monster Activation, this model can spend one Action Die while on or adjacent to a debris tile to perform a Salvage action. Gain two Power Dice and roll the Action Dice spent for this ability. If the roll includes any strike, remove the tile."
       },
       "Action§Scatter": {
-        "classification": "Action",
         "text": "During your Monster Activation, this model can spend one Action Die to perform a Scatter action. You can advance each unit within two spaces of this model one space. These units cannot advance into a hazard."
       },
       "Action§Scavenge": {
-        "classification": "Action",
         "text": "During this model's activation, it can spend one Action Die while on or adjacent to a rubble tile to perform a Scavenge action. Gain one Power Die and roll the Action Die spent for this ability. If the roll includes any strikes, remove the tile."
       },
       "Action§Shield Guard": {
-        "classification": "Action",
         "text": "During your opponent's Unit or Monster Activation, this model can spend one Action Die from your Unit Pool to perform a Shield Guard action. A building or allied unit adjacent to this model that was just hit by a blast attack is no longer hit. This model is hit by the blast attack instead."
       },
       "Action§Smokescreen": {
-        "classification": "Action",
         "text": "During your Unit or Monster Activation, this model can spend one Action Die to perform a Smokescreen action. Choose an allied model that has not made a full advance this turn. That model must be a unit if it is a Unit Activation or a Monster if it is a Monster Activation. Place that model in a space up to six spaces from its current position. The placed model cannot make a full advance this turn."
       },
       "Action§Spatial Anomaly": {
-        "classification": "Action",
         "text": "During your Unit or Monster Activation, this model can spend one Action Die to perform a Spatial Anomaly action. Swap the positions of two of your Masters monsters or two of your allied units. Spatial Anomaly cannot be used during the advancement phase."
       },
       "Action§Sprint": {
-        "classification": "Action",
         "text": "This model can spend one Action Die to perform a Sprint action. Advance this model up to three spaces, even if it has already advanced this turn."
       },
       "Action§Summon": {
-        "classification": "Action",
         "text": "This model can spend one Action Die to perform a Summon action. Take one Faction unit from your unit reserves and place it in play adjacent to this model."
       },
       "Action§Tactical Shift": {
-        "classification": "Action",
         "text": "This model can spend one Action Die to perform a Tactical Shift action. Advance any allied unit up to two spaces, even if it has already advanced this turn."
       },
       "Action§Tectonic Shift": {
-        "classification": "Action",
         "text": "During your Unit or Monster Activation, this model can spend one Action Die to perform a Tectonic Shift action. Advance one of your monsters up to two spaces."
       },
       "Action§Telekinesis": {
-        "classification": "Action",
         "text": "This model can spend one Action Die to perform a Telekinesis action. Choose one unit within two spaces of this model. Move the chosen unit one space."
       },
       "Action§Teleport": {
-        "classification": "Action",
         "text": "This model can spend one Action Die to perform a Teleport action. Either choose an adjacent allied unit and place it adjacent to another allied model with Teleport or choose one allied unit adjacent to another allied model with Teleport and place it adjacent to this model."
       },
       "Action§Tourism Campaign": {
-        "classification": "Action",
         "text": "During your Unit Activation, this model can spend on Action Die to perform a Tourism Campaign action. Gain one Power Die."
       },
       "Action§Tow": {
-        "classification": "Action",
         "text": "This model can spend one Action Die to perform a Tow action. Choose one allied unit within five spaces of this model and place it adjacent to this model. The placed model cannot advance after being placed."
       },
       "Action§Transform": {
-        "classification": "Action",
         "text": "During your Unit or Monster activation, this model can spend one Action Die to perform a Transform action. Replace one allied unit with a unit from your unit reserves with an equal or lower cost."
       },
       "Action§Transport": {
-        "classification": "Action",
         "text": "This model can spend one Action Die to perform a Transport action. Take one Faction unit with the Cargo special rule from your unit reserves and place it play adjacent to this model."
       },
       "Action§Troubleshoot": {
-        "classification": "Action",
         "text": "If you make an attack with this model that fails to hit, this model may spend one Action Die to perform a Troubleshoot action. Reroll that attack roll."
       },
       "Asset§Deck Plate": {
@@ -1161,7 +909,6 @@
             "Ability§Safety Device"
           ]
         },
-        "classification": "Asset",
         "stats": {
           "Defense": {
             "value": 10
@@ -1175,7 +922,6 @@
             "Build§Defense Turret"
           ]
         },
-        "classification": "Asset",
         "stats": {
           "Defense": {
             "value": 4
@@ -1191,7 +937,6 @@
             "Ability§Refuge"
           ]
         },
-        "classification": "Asset",
         "stats": {
           "Defense": {
             "value": 5
@@ -1206,7 +951,6 @@
             "Ability§Force Field"
           ]
         },
-        "classification": "Asset",
         "stats": {
           "Defense": {
             "value": 3
@@ -1221,7 +965,6 @@
             "Ability§Power Pump"
           ]
         },
-        "classification": "Asset",
         "stats": {
           "Defense": {
             "value": 6
@@ -1236,7 +979,6 @@
             "Ability§Neutral Garrison"
           ]
         },
-        "classification": "Asset",
         "stats": {
           "Defense": {
             "value": 7
@@ -1251,7 +993,6 @@
             "Ability§Speed Bump"
           ]
         },
-        "classification": "Asset",
         "stats": {
           "Defense": {
             "value": 6
@@ -1259,31 +1000,24 @@
         }
       },
       "Build§Deck Plate": {
-        "classification": "Build",
         "text": "Place two Deck Plate assets in play in any spaces without an objective or foundation."
       },
       "Build§Defense Turret": {
-        "classification": "Build",
         "text": "Place one Defense Turret asset in play in any unoccupied open terrain space without an objective or foundation and within four spaces of the model performing the action that places it."
       },
       "Build§Emergency Barricade": {
-        "classification": "Build",
         "text": "Place three Emergency Barricade assets in play within three spaces of the model performing the action that places them."
       },
       "Build§Force Field Generator": {
-        "classification": "Build",
         "text": "Place one Force Field Generator asset in play in any unoccupied open terrain space without an objective or foundation."
       },
       "Build§Resource Extractor": {
-        "classification": "Build",
         "text": "Place one Resource Extractor asset in play in any power zone space."
       },
       "Build§Security Bunker": {
-        "classification": "Build",
         "text": "Place one Security Bunker in play in any unoccupied open terrain space adjacent to a building without an objective or foundation."
       },
       "Build§Speed Booster": {
-        "classification": "Build",
         "text": "Place two Speed Booster assets in play in any unoccupied open terrain spaces without an objective or foundation."
       },
       "Building§Apartment Building": {
@@ -1292,7 +1026,6 @@
             "Ability§High Density"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 5
@@ -1306,7 +1039,6 @@
             "Ability§Draken Armada Base"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 7
@@ -1319,7 +1051,6 @@
             "Ability§Charity"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 6
@@ -1333,7 +1064,6 @@
             "Ability§Radar Network"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 6
@@ -1348,7 +1078,6 @@
             "Ability§Incombustable"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 6
@@ -1362,7 +1091,6 @@
             "Ability§Trade Policy"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 6
@@ -1376,7 +1104,6 @@
             "Ability§Security Building"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 6
@@ -1391,7 +1118,6 @@
             "Ability§Incombustable"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 7
@@ -1405,7 +1131,6 @@
             "Ability§Power Converter"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 7
@@ -1418,7 +1143,6 @@
             "Action§City Planning"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 7
@@ -1431,7 +1155,6 @@
             "Ability§Fuel Depot"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 6
@@ -1445,7 +1168,6 @@
             "Ability§Empire of the Apes Base"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 7
@@ -1460,7 +1182,6 @@
             "Ability§Triton Base"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 7
@@ -1474,7 +1195,6 @@
             "Ability§Resource Domination"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 7
@@ -1488,7 +1208,6 @@
             "Ability§Static"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 6
@@ -1502,7 +1221,6 @@
             "Ability§Terrasaurs Base"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 7
@@ -1518,7 +1236,6 @@
             "Ability§Perilous"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 7
@@ -1533,7 +1250,6 @@
             "Ability§Outreach"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 7
@@ -1549,7 +1265,6 @@
             "Ability§Power Producer"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 6
@@ -1564,7 +1279,6 @@
             "Ability§Zerkalo Bloc Base"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 7
@@ -1577,7 +1291,6 @@
             "Action§Raze"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 6
@@ -1590,7 +1303,6 @@
             "Ability§Discount"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 7
@@ -1605,7 +1317,6 @@
             "Ability§Subterran Uprising Base."
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 6
@@ -1619,7 +1330,6 @@
             "Ability§Opportunity"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 6
@@ -1634,7 +1344,6 @@
             "Ability§Shadow Sun Syndicate Base"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 7
@@ -1650,7 +1359,6 @@
             "Ability§Vantage Point"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 6
@@ -1664,7 +1372,6 @@
             "Ability§UberCorp International Base"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 7
@@ -1679,7 +1386,6 @@
             "Ability§Lords of Cthul Base"
           ]
         },
-        "classification": "Building",
         "stats": {
           "Defense": {
             "value": 7
@@ -1687,7 +1393,6 @@
         }
       },
       "Combat§Blast": {
-        "classification": "Combat",
         "stats": {
           "A": {
             "value": 0,
@@ -1702,7 +1407,6 @@
         }
       },
       "Combat§Brawl": {
-        "classification": "Combat",
         "stats": {
           "A": {
             "icons": [
@@ -1712,7 +1416,6 @@
         }
       },
       "Combat§Power": {
-        "classification": "Combat",
         "stats": {
           "A": {
             "value": 0,
@@ -1775,7 +1478,6 @@
             "Ability§Steady"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Martian Menace"
@@ -1853,7 +1555,6 @@
             "Ability§Tactical Command"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Martian Menace"
@@ -1909,7 +1610,6 @@
             "Ability§Resilience"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Terrasaurs"
@@ -1966,7 +1666,6 @@
             "Ability§Unearthly Rage"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Terrasaurs"
@@ -2038,7 +1737,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Subterran Uprising"
@@ -2114,7 +1812,6 @@
             "Ability§Energy Cycle"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Subterran Uprising"
@@ -2190,7 +1887,6 @@
             "Ability§Tooth and Claw"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Legion of Mutates"
@@ -2270,7 +1966,6 @@
             "Ability§Tooth and Claw"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Legion of Mutates"
@@ -2336,7 +2031,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Lords of Cthul"
@@ -2407,7 +2101,6 @@
             "Ability§Terrify"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Lords of Cthul"
@@ -2479,7 +2172,6 @@
             "Ability§Strip Mining"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "UberCorp International"
@@ -2556,7 +2248,6 @@
             "Ability§Spotter"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "UberCorp International"
@@ -2622,7 +2313,6 @@
             "Ability§Safeguard"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "G.U.A.R.D."
@@ -2694,7 +2384,6 @@
             "Ability§Safeguard"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "G.U.A.R.D."
@@ -2764,7 +2453,6 @@
             "Ability§Mechanical"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Martian Menace"
@@ -2836,7 +2524,6 @@
             "Ability§Mechanical"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Martian Menace"
@@ -2913,7 +2600,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Savage Swarm"
@@ -2989,7 +2675,6 @@
             "Ability§Lightning Attack"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Savage Swarm"
@@ -3047,7 +2732,6 @@
             "Ability§Righteous Fury"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Green Fury"
@@ -3105,7 +2789,6 @@
             "Ability§Righteous Fury"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Green Fury"
@@ -3180,7 +2863,6 @@
             "Ability§Improvised Weapon"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Empire of the Apes"
@@ -3256,7 +2938,6 @@
             "Ability§Lightning Attack"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Empire of the Apes"
@@ -3331,7 +3012,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Necroscourge"
@@ -3413,7 +3093,6 @@
             "Ability§Redline"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Necroscourge"
@@ -3485,7 +3164,6 @@
             "Ability§Unwieldy"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Draken Armada"
@@ -3558,7 +3236,6 @@
             "Ability§Unwieldy"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Draken Armada"
@@ -3629,7 +3306,6 @@
             "Ability§Guerrilla Tactics"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Empire of the Apes"
@@ -3702,7 +3378,6 @@
             "Ability§Rapid Fire"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Empire of the Apes"
@@ -3773,7 +3448,6 @@
             "Ability§Unwieldy"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Waste"
@@ -3850,7 +3524,6 @@
             "Ability§Limited Cognition"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Waste"
@@ -3924,7 +3597,6 @@
             "Ability§Riled"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Planet Eaters"
@@ -4000,7 +3672,6 @@
             "Ability§Unearthly Rage"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Planet Eaters"
@@ -4071,7 +3742,6 @@
             "Ability§Power Sink"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "UberCorp International"
@@ -4143,7 +3813,6 @@
             "Ability§Power Sink"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "UberCorp International"
@@ -4199,7 +3868,6 @@
             "Ability§Tooth and Claw"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Green Fury"
@@ -4260,7 +3928,6 @@
             "Ability§Tooth and Claw"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Green Fury"
@@ -4314,7 +3981,6 @@
             "Ability§Tunneler"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Subterran Uprising"
@@ -4376,7 +4042,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Subterran Uprising"
@@ -4452,7 +4117,6 @@
             "Ability§Spawning Locus [Air]"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Elemental Champions"
@@ -4520,7 +4184,6 @@
             "Ability§Unrelenting Storm"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Elemental Champions"
@@ -4592,7 +4255,6 @@
             "Ability§Return Fire"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Elemental Champions"
@@ -4669,7 +4331,6 @@
             "Ability§Lightning Attack"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Elemental Champions"
@@ -4726,7 +4387,6 @@
             "Ability§Tantrum"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Empire of the Apes"
@@ -4784,7 +4444,6 @@
             "Ability§Riled"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Empire of the Apes"
@@ -4860,7 +4519,6 @@
             "Ability§Safeguard"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Zerkalo Bloc"
@@ -4937,7 +4595,6 @@
             "Ability§Safeguard"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Zerkalo Bloc"
@@ -4994,7 +4651,6 @@
             "Ability§Waterlogged"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Tritons"
@@ -5071,7 +4727,6 @@
             "Ability§Windup"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Tritons"
@@ -5141,7 +4796,6 @@
             "Ability§King Tide"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Tritons"
@@ -5216,7 +4870,6 @@
             "Ability§Crunch"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Tritons"
@@ -5288,7 +4941,6 @@
             "Ability§Mechanical"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "UberCorp International"
@@ -5365,7 +5017,6 @@
             "Ability§Mechanical"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "UberCorp International"
@@ -5440,7 +5091,6 @@
             "Ability§Maximize"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Lords of Cthul"
@@ -5511,7 +5161,6 @@
             "Ability§Rapid Fire"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Lords of Cthul"
@@ -5582,7 +5231,6 @@
             "Ability§Mechanical"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "G.U.A.R.D."
@@ -5654,7 +5302,6 @@
             "Ability§Mechanical"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "G.U.A.R.D."
@@ -5729,7 +5376,6 @@
             "Ability§Wrecking Crew"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Martian Menace"
@@ -5801,7 +5447,6 @@
             "Ability§Mechanical"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Martian Menace"
@@ -5872,7 +5517,6 @@
             "Ability§Side Step"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Terrasaurs"
@@ -5949,7 +5593,6 @@
             "Ability§Side Step"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Terrasaurs"
@@ -6025,7 +5668,6 @@
             "Ability§Power Swell"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Draken Armada"
@@ -6107,7 +5749,6 @@
             "Ability§Terrify"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Draken Armada"
@@ -6176,7 +5817,6 @@
             "Ability§High Impact"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Planet Eaters"
@@ -6247,7 +5887,6 @@
             "Ability§Return Fire"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Planet Eaters"
@@ -6304,7 +5943,6 @@
             "Ability§Reposition"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Green Fury"
@@ -6367,7 +6005,6 @@
             "Ability§Lead from the Front"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Green Fury"
@@ -6434,7 +6071,6 @@
             "Ability§Wing Leader"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "G.U.A.R.D."
@@ -6506,7 +6142,6 @@
             "Ability§Wing Leader"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "G.U.A.R.D."
@@ -6583,7 +6218,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Waste"
@@ -6660,7 +6294,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Waste"
@@ -6712,7 +6345,6 @@
             "Ability§Toughen Up"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Legion of Mutates"
@@ -6766,7 +6398,6 @@
             "Ability§Toughen Up"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Legion of Mutates"
@@ -6835,7 +6466,6 @@
             "Ability§Stampede"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Terrasaurs"
@@ -6905,7 +6535,6 @@
             "Ability§Lightning Attack"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Terrasaurs"
@@ -6977,7 +6606,6 @@
             "Ability§Rampager"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Martian Menace"
@@ -7053,7 +6681,6 @@
             "Ability§Nano Construction"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Martian Menace"
@@ -7126,7 +6753,6 @@
             "Ability§Spawning Locus [Juror]"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Masters of the 8th Dimension"
@@ -7205,7 +6831,6 @@
             "Ability§Spawning Locus [Juror]"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Masters of the 8th Dimension"
@@ -7278,7 +6903,6 @@
             "Ability§Mechanical"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Masters of the 8th Dimension"
@@ -7356,7 +6980,6 @@
             "Ability§Rapid Fire"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Masters of the 8th Dimension"
@@ -7432,7 +7055,6 @@
             "Ability§Seismic Step"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Terrasaurs"
@@ -7513,7 +7135,6 @@
             "Ability§Seismic Step"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Terrasaurs"
@@ -7570,7 +7191,6 @@
             "Ability§Unwieldy"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Lords of Cthul"
@@ -7633,7 +7253,6 @@
             "Ability§Treacherous Territory"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Lords of Cthul"
@@ -7700,7 +7319,6 @@
             "Ability§Spotter"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Zerkalo Bloc"
@@ -7776,7 +7394,6 @@
             "Ability§Secondary Batteries"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Zerkalo Bloc"
@@ -7837,7 +7454,6 @@
             "Ability§Wrecking Crew"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Empire of the Apes"
@@ -7895,7 +7511,6 @@
             "Ability§Treacherous Territory"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Empire of the Apes"
@@ -7965,7 +7580,6 @@
             "Ability§Kinetic Distortions"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Planet Eaters"
@@ -8035,7 +7649,6 @@
             "Ability§Ultimate Weapon"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Planet Eaters"
@@ -8093,7 +7706,6 @@
             "Ability§Riled"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Savage Swarm"
@@ -8155,7 +7767,6 @@
             "Ability§Riled"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Savage Swarm"
@@ -8212,7 +7823,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Lords of Cthul"
@@ -8271,7 +7881,6 @@
             "Ability§Side Step"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Lords of Cthul"
@@ -8342,7 +7951,6 @@
             "Ability§Wrecking Crew"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Zerkalo Bloc"
@@ -8417,7 +8025,6 @@
             "Ability§Mechanical"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Zerkalo Bloc"
@@ -8497,7 +8104,6 @@
             "Ability§Tactical Command"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Shadow Sun Syndicate"
@@ -8573,7 +8179,6 @@
             "Ability§Rapid Fire"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Shadow Sun Syndicate"
@@ -8629,7 +8234,6 @@
             "Ability§Side Step"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Shadow Sun Syndicate"
@@ -8700,7 +8304,6 @@
             "Ability§Rapid Fire"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Shadow Sun Syndicate"
@@ -8756,7 +8359,6 @@
             "Ability§Reposition"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Shadow Sun Syndicate"
@@ -8833,7 +8435,6 @@
             "Ability§Reposition"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Shadow Sun Syndicate"
@@ -8914,7 +8515,6 @@
             "Ability§Spotter"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Draken Armada"
@@ -8984,7 +8584,6 @@
             "Ability§Ultimate Weapon"
           ]
         },
-        "classification": "Monster Form",
         "keywords": {
           "Faction": [
             "Draken Armada"
@@ -9012,7 +8611,6 @@
             "Monster Form§Ares Mothership–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9026,7 +8624,6 @@
             "Monster Form§Armodax–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9040,7 +8637,6 @@
             "Monster Form§Blastikutter–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9054,7 +8650,6 @@
             "Monster Form§Cassander–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9068,7 +8663,6 @@
             "Monster Form§Cthugrosh–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9082,7 +8676,6 @@
             "Monster Form§Cyber Khan–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9096,7 +8689,6 @@
             "Monster Form§Defender X–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9110,7 +8702,6 @@
             "Monster Form§Deimos-9–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9124,7 +8715,6 @@
             "Monster Form§Dynastavus–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9138,7 +8728,6 @@
             "Monster Form§Earth Knight–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9152,7 +8741,6 @@
             "Monster Form§Gakura–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9166,7 +8754,6 @@
             "Monster Form§Gallamaxus–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9180,7 +8767,6 @@
             "Monster Form§Gausamal–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9194,7 +8780,6 @@
             "Monster Form§General Hondo–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9208,7 +8793,6 @@
             "Monster Form§Globbicus–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9222,7 +8806,6 @@
             "Monster Form§Gorghadra–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9236,7 +8819,6 @@
             "Monster Form§Gorghadratron–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9250,7 +8832,6 @@
             "Monster Form§Grizzi–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9264,7 +8845,6 @@
             "Monster Form§Hammerklak–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9278,7 +8858,6 @@
             "Monster Form§Hurricanius–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9292,7 +8871,6 @@
             "Monster Form§Incinerus–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9306,7 +8884,6 @@
             "Monster Form§King Kondo–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9320,7 +8897,6 @@
             "Monster Form§Komkor 001–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9334,7 +8910,6 @@
             "Monster Form§Krakenoctus–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9348,7 +8923,6 @@
             "Monster Form§Leviathron–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9362,7 +8936,6 @@
             "Monster Form§Mecha-Maxim–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9376,7 +8949,6 @@
             "Monster Form§Mogroth–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9390,7 +8962,6 @@
             "Monster Form§Nova ESR–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9404,7 +8975,6 @@
             "Monster Form§Phobos-7–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9418,7 +8988,6 @@
             "Monster Form§Pteradax–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9432,7 +9001,6 @@
             "Monster Form§Rastaban–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9446,7 +9014,6 @@
             "Monster Form§Rogzor–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9460,7 +9027,6 @@
             "Monster Form§Sergeant Titanica–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9474,7 +9040,6 @@
             "Monster Form§Sky Sentinel–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9488,7 +9053,6 @@
             "Monster Form§Slingoozer–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9502,7 +9066,6 @@
             "Monster Form§Taharka–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9516,7 +9079,6 @@
             "Monster Form§Terra Khan–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9530,7 +9092,6 @@
             "Monster Form§Tharsis-5–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9544,7 +9105,6 @@
             "Monster Form§The Magistrate–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9558,7 +9118,6 @@
             "Monster Form§The Preceptor–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9572,7 +9131,6 @@
             "Monster Form§Tyrranix–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9586,7 +9144,6 @@
             "Monster Form§Ulgoth–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9600,7 +9157,6 @@
             "Monster Form§Voyaka 099–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9614,7 +9170,6 @@
             "Monster Form§White Dajan–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9628,7 +9183,6 @@
             "Monster Form§Xaxor–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9642,7 +9196,6 @@
             "Monster Form§Xixorax–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9656,7 +9209,6 @@
             "Monster Form§Yasheth–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9670,7 +9222,6 @@
             "Monster Form§Zavod 075–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Destroyers"
@@ -9684,7 +9235,6 @@
             "Monster Form§Zor-Magna–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9698,7 +9248,6 @@
             "Monster Form§Zor-Maxim–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9712,7 +9261,6 @@
             "Monster Form§Zor-Raiden–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9726,7 +9274,6 @@
             "Monster Form§Zybanos–Hyper"
           ]
         },
-        "classification": "Monster",
         "keywords": {
           "Keywords": [
             "Protectors"
@@ -9749,7 +9296,6 @@
           "Type": "conceptual",
           "Unique": true
         },
-        "classification": "Roster",
         "stats": {
           "Agenda": {
             "display": "dynamic",
@@ -9772,175 +9318,132 @@
         }
       },
       "Trigger§Air Drop": {
-        "classification": "Trigger",
         "text": "When this model performs a throw power attack, the target monster can be placed up to two spaces further away than the number of power dice rolled."
       },
       "Trigger§Appropriate": {
-        "classification": "Trigger",
         "text": "This model must be on or adjacent to a debris tile to make this attack. When this model makes this attack, after determining the number of dice in the attack roll, remove the debris tile this monster is on or adjacent to. If the removed tile was a hazard, this attack does super damage. After the attack is resolved, this model suffers 1 damage point."
       },
       "Trigger§Beat Back": {
-        "classification": "Trigger",
         "text": "If this model hits an enemy monster with this attack, after the attack is resolved you can move the monster hit up to two spaces in a straight line in any direction. During this movement, the target monster moves through and collides with buildings, units, and hazards in its path. The target monster stops moving if it collides with another monster."
       },
       "Trigger§Berserk": {
-        "classification": "Trigger",
         "text": "Once during this model's activation, if this attack hits an enemy unit, immediately after the attack is resolved advance this model up to two spaces, even f it has already advanced this turn. After this advance, this model can make a brawl attack with the dice in play."
       },
       "Trigger§Chain Reaction": {
-        "classification": "Trigger",
         "text": "If this attack hits a unit, all units adjacent to the target unit with DEF equal to or less than the number of strikes rolled also suffer 1 damage point as a result of this attack."
       },
       "Trigger§Cleave": {
-        "classification": "Trigger",
         "text": "If this attack hits a unit, all other enemy units adjacent to the target unit with DEF equal to or less than the number of strikes rolled also suffer 1 damage point as a result of this attack."
       },
       "Trigger§Collateral Damage": {
-        "classification": "Trigger",
         "text": "If this attack hits a monster, all units adjacent to the target monster suffer 1 damage as a result of this attack."
       },
       "Trigger§Combo Strike": {
-        "classification": "Trigger",
         "text": "If this attack hits, after the attack is resolved this model can immediately make a power attack. This power attack gains +3 Boost Dice and does not require any Power Dice."
       },
       "Trigger§Cut Power": {
-        "classification": "Trigger",
         "text": "If this attack hits an enemy monster, that monster's controller loses one Power Die for each super strike in the attack roll."
       },
       "Trigger§Demolition": {
-        "classification": "Trigger",
         "text": "If this attack hits a building, all units adjacent to the target building with a DEF equal to of less than the number of strikes rolled suffer 1 damage point as a result of this attack."
       },
       "Trigger§Devastation": {
-        "classification": "Trigger",
         "text": "If this attack hits a building, all units adjacent to the target building with a DEF equal to of less than the number of strikes rolled suffer 1 damage point as a result of this attack. When determining the DEF of adjacent models, add any bonuses to DEF against blast attacks, including cover."
       },
       "Trigger§Disintegrate": {
-        "classification": "Trigger",
         "text": "Buildings destroyed by this attack are not replaced by rubble or hazards."
       },
       "Trigger§Drag": {
-        "classification": "Trigger",
         "text": "It this attack hits an enemy monster, after the attack is resolved place the enemy monster adjacent to this model. The placed model is immune to hazards regardless of other special rules when placed by Drag."
       },
       "Trigger§Energy Sap": {
-        "classification": "Trigger",
         "text": "If this attack hits an enemy monster, your opponent must move one Action Die from their Monster Pool to their Unit Pool."
       },
       "Trigger§Explosion": {
-        "classification": "Trigger",
         "text": "If this attack hits a unit, all units adjacent to the target unit with a DEF equal to or less than the number of strikes rolled also suffer 1 damage point as a result of this attack. When determining the DEF of adjacent models, add any bonuses to DEF against blast attacks, including cover."
       },
       "Trigger§Fling": {
-        "classification": "Trigger",
         "text": "When this attack hits a unit, choose a building or enemy model within five spaces of the unit hit. Roll the dice in play. If the chosen model's DEF is equal to or less than the number of strikes rolled, it takes 1 damage point."
       },
       "Trigger§Follow Through": {
-        "classification": "Trigger",
         "text": "If this attack hits, immediately after the attack is resolved, advance this model up to three spaces. Then, this model can make a blast or brawl attack, whichever is different from this attack. An attack generated by Follow Through cannot generate another attack."
       },
       "Trigger§Fury": {
-        "classification": "Trigger",
         "text": "If this attack hits, you can one Power Die."
       },
       "Trigger§Hit & Run": {
-        "classification": "Trigger",
         "text": "If this model hits a target model with this attack, immediately after the attack is resolved advance this model up to 3 spaces even if this model has already advanced this turn."
       },
       "Trigger§Indirect Fire": {
-        "classification": "Trigger",
         "text": "This attack ignores Cover."
       },
       "Trigger§Intimidate": {
-        "classification": "Trigger",
         "text": "After this attack is resolved, you may advance one enemy unit adjacent to the target up to three spaces. That enemy unit cannot advance into a hazard space."
       },
       "Trigger§Manufacture": {
-        "classification": "Trigger",
         "text": "If this attack hits an enemy unit, immediately after the attack has been resolved replace the enemy unit hit with a Faction unit from your unit reserves. The replacing Faction unit cannot participate in an attack this activation."
       },
       "Trigger§Multi-Fire": {
-        "classification": "Trigger",
         "text": "After this model resolves a blast attack, it can immediately make a blast attack with the dice in play against another enemy model. This model can make two additional attacks in this way. This model cannot make a  blast attack against the same model more than once in the same activation."
       },
       "Trigger§Munch": {
-        "classification": "Trigger",
         "text": "If this monster destroys a unit with this attack, after the attack is resolved restore one point of health to this monster."
       },
       "Trigger§Onslaught": {
-        "classification": "Trigger",
         "text": "After this attack is resolved, this model can make this attack again this turn. This attack gains +2 Boost Dice if it targets a model this monster has already attacked this turn. This monster can make one attack as a result of Onslaught while in Alpha form and two attacks as a result of Onslaught while in Hyper form."
       },
       "Trigger§Penetrator": {
-        "classification": "Trigger",
         "text": "When resolving this attack, the target model suffers -1 DEF, to a minimum of 1."
       },
       "Trigger§Power Drain": {
-        "classification": "Trigger",
         "text": "If this attack hits an enemy monster, the monster's controller loses one Power Dice."
       },
       "Trigger§Power Gorge": {
-        "classification": "Trigger",
         "text": "When this attack destroys an enemy model, you gain an additional Power Die."
       },
       "Trigger§Power Projection": {
-        "classification": "Trigger",
         "text": "When this monster performs a ram power attack, choose a space up to two spaces away from it that is also B2B with a buildings. This monster is considered to be in that space when choosing a target building for the attack and determining which models take damage or are destroyed by the attack."
       },
       "Trigger§Precision Strike": {
-        "classification": "Trigger",
         "text": "You can reroll one Action Die on this attack."
       },
       "Trigger§Press On": {
-        "classification": "Trigger",
         "text": "If this model hits a target model with this attack, immediately after the attack is resolved advance this model up to one space, even if this model has already advanced this turn."
       },
       "Trigger§Proliferate": {
-        "classification": "Trigger",
         "text": "If this attack hits, after the attack is resolved, choose one Faction model from your unit reserves and place it in play on or adjacent to the target."
       },
       "Trigger§Retrieve": {
-        "classification": "Trigger",
         "text": "If this model performs a swat power attack and hits the first target, you can place this model B2B with the second target before rolling the second attack. If this model performs a throw power attack and hits the target monster, you can place this model B2B with the target after moving the target as a result of the throw power attack."
       },
       "Trigger§Rocket Assist": {
-        "classification": "Trigger",
         "text": "If the second target of this model's swat power attack is hit, all units adjacent to that target with DEF equal to or less than the number of strikes rolled also suffer 1 damage point as a result of this attack."
       },
       "Trigger§Shred": {
-        "classification": "Trigger",
         "text": "In this attack hits, the target suffers 1 damage point as a result of this attack if the number of strikes rolled for the attack exceeds the target's DEF by 3 or more."
       },
       "Trigger§Siphon": {
-        "classification": "Trigger",
         "text": "If this attack hits an enemy monster, you gain one Power Die. That monster's controller loses one Power Die."
       },
       "Trigger§Splash": {
-        "classification": "Trigger",
         "text": "If this attack hits, after the attack is resolved, you can flip a hazard tile adjacent to the target to the rubble tile."
       },
       "Trigger§Strafe": {
-        "classification": "Trigger",
         "text": "If this attack hits, choose an enemy unit or building within 2 spaces of the target with a DEF equal to or less than the number of strikes rolled. The chosen model also suffers 1 damage point as a result of this attack. When determining the DEF of the chosen unit or building, add any bonuses to DEF against blast attacks, including cover."
       },
       "Trigger§Suplex": {
-        "classification": "Trigger",
         "text": "If a body slam power attack performed by this model hits, before placing the target, this model can move one space."
       },
       "Trigger§Sweeping Attack": {
-        "classification": "Trigger",
         "text": "After this attack is resolved you can advance this monster up to three spaced and make a Swat power attack."
       },
       "Trigger§Thrash": {
-        "classification": "Trigger",
         "text": "When you roll two or more super strikes on this monster's attack roll, the attack does super damage."
       },
       "Trigger§Vampirism": {
-        "classification": "Trigger",
         "text": "If this attack hits an enemy monster, restore 1 Health to this monster after this attack has been resolved."
       },
       "Trigger§Weapon Master": {
-        "classification": "Trigger",
         "text": "This attack does Super Damage."
       },
       "Unit§AAApebot": {
@@ -9962,7 +9465,6 @@
             "Ability§Reach"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "UberCorp International"
@@ -10026,7 +9528,6 @@
             "Ability§Power Sink"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Masters of the 8th Dimension"
@@ -10080,7 +9581,6 @@
             "Ability§Improvised Weapon"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Waste"
@@ -10124,7 +9624,6 @@
             "Ability§Turbulence"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Elemental Champions"
@@ -10172,7 +9671,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Empire of the Apes"
@@ -10221,7 +9719,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Empire of the Apes"
@@ -10273,7 +9770,6 @@
             "Ability§All-Terrain"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Empire of the Apes"
@@ -10326,7 +9822,6 @@
             "Ability§Commander"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Empire of the Apes"
@@ -10367,7 +9862,6 @@
             "Ability§Spotter"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Empire of the Apes"
@@ -10411,7 +9905,6 @@
             "Ability§Power Hitter"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Empire of the Apes"
@@ -10456,7 +9949,6 @@
             "Ability§Power Hitter"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Empire of the Apes"
@@ -10499,7 +9991,6 @@
             "Ability§Dual Attack"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Legion of Mutates"
@@ -10543,7 +10034,6 @@
             "Ability§Dual Attack"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Legion of Mutates"
@@ -10599,7 +10089,6 @@
             }
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Planet Eaters"
@@ -10656,7 +10145,6 @@
             "Ability§Commander"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Planet Eaters"
@@ -10708,7 +10196,6 @@
             "Ability§Disruption"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Terrasaurs"
@@ -10761,7 +10248,6 @@
             "Ability§Disruption"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Terrasaurs"
@@ -10824,7 +10310,6 @@
             "Ability§Stampede"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Legion of Mutates"
@@ -10863,7 +10348,6 @@
             "Ability§Dig In"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Terrasaurs"
@@ -10920,7 +10404,6 @@
             "Ability§Cargo"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Shadow Sun Syndicate"
@@ -10978,7 +10461,6 @@
             "Ability§Commander"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Shadow Sun Syndicate"
@@ -11015,7 +10497,6 @@
             }
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Terrasaurs"
@@ -11054,7 +10535,6 @@
             "Ability§Flank"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Terrasaurs"
@@ -11107,7 +10587,6 @@
             "Ability§Efficient"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "UberCorp International"
@@ -11161,7 +10640,6 @@
             "Ability§Efficient"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "UberCorp International"
@@ -11203,7 +10681,6 @@
             }
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Planet Eaters"
@@ -11246,7 +10723,6 @@
             "Ability§Commander"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Planet Eaters"
@@ -11291,7 +10767,6 @@
             "Ability§Tag"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Legion of Mutates"
@@ -11336,7 +10811,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Empire of the Apes"
@@ -11389,7 +10863,6 @@
             "Ability§Pointer"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Draken Armada"
@@ -11443,7 +10916,6 @@
             "Ability§Pointer"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Draken Armada"
@@ -11473,7 +10945,6 @@
             "Ability§Unstable"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Planet Eaters"
@@ -11512,7 +10983,6 @@
             "Ability§Flank"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Planet Eaters"
@@ -11570,7 +11040,6 @@
             "Ability§Team Tactics"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Savage Swarm"
@@ -11629,7 +11098,6 @@
             "Ability§Team Tactics"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Savage Swarm"
@@ -11687,7 +11155,6 @@
             "Ability§Thick of It"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Draken Armada"
@@ -11740,7 +11207,6 @@
             "Ability§Intensify"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Draken Armada"
@@ -11793,7 +11259,6 @@
             "Ability§Uncrushable"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "G.U.A.R.D."
@@ -11847,7 +11312,6 @@
             "Ability§Uncrushable"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "G.U.A.R.D."
@@ -11893,7 +11357,6 @@
             "Ability§Self-Destruct"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Planet Eaters"
@@ -11941,7 +11404,6 @@
             "Ability§Demolisher"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Planet Eaters"
@@ -11985,7 +11447,6 @@
             "Ability§Radar"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Masters of the 8th Dimension"
@@ -12025,7 +11486,6 @@
             "Ability§Fire Proof"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Elemental Champions"
@@ -12066,7 +11526,6 @@
             "Ability§Fire Proof"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Elemental Champions"
@@ -12118,7 +11577,6 @@
             "Ability§Team Tactics"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Draken Armada"
@@ -12171,7 +11629,6 @@
             "Ability§Team Tactics"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Draken Armada"
@@ -12224,7 +11681,6 @@
             "Ability§All-Terrain"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "G.U.A.R.D."
@@ -12278,7 +11734,6 @@
             "Ability§Commander"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "G.U.A.R.D."
@@ -12338,7 +11793,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Martian Menace"
@@ -12384,7 +11838,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Lords of Cthul"
@@ -12432,7 +11885,6 @@
             "Ability§Lone Wolf"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Martian Menace"
@@ -12475,7 +11927,6 @@
             "Ability§All-Terrain"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Shadow Sun Syndicate"
@@ -12505,7 +11956,6 @@
             "Ability§Quorum"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Masters of the 8th Dimension"
@@ -12548,7 +11998,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Zerkalo Bloc"
@@ -12592,7 +12041,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Zerkalo Bloc"
@@ -12640,7 +12088,6 @@
             "Ability§Quick Fire"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Zerkalo Bloc"
@@ -12667,7 +12114,6 @@
             "Ability§Incubator"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Lords of Cthul"
@@ -12712,7 +12158,6 @@
             "Ability§Riled"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Subterran Uprising"
@@ -12752,7 +12197,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Subterran Uprising"
@@ -12793,7 +12237,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Subterran Uprising"
@@ -12847,7 +12290,6 @@
             "Ability§Mobile Fortress"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "G.U.A.R.D."
@@ -12876,7 +12318,6 @@
             "Ability§Cargo"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Martian Menace"
@@ -12906,7 +12347,6 @@
             "Ability§Inspiration"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Zerkalo Bloc"
@@ -12947,7 +12387,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Tritons"
@@ -12987,7 +12426,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Terrasaurs"
@@ -13026,7 +12464,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Terrasaurs"
@@ -13066,7 +12503,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Terrasaurs"
@@ -13106,7 +12542,6 @@
             "Ability§Power Hitter"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Martian Menace"
@@ -13147,7 +12582,6 @@
             "Ability§Power Hitter"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Martian Menace"
@@ -13174,7 +12608,6 @@
             "Action§Repair"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "G.U.A.R.D."
@@ -13214,7 +12647,6 @@
             "Ability§Jam"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "UberCorp International"
@@ -13272,7 +12704,6 @@
             "Ability§Lone Wolf"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Empire of the Apes"
@@ -13315,7 +12746,6 @@
             "Ability§Spotter"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "G.U.A.R.D."
@@ -13355,7 +12785,6 @@
             "Ability§Side Step"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Shadow Sun Syndicate"
@@ -13396,7 +12825,6 @@
             "Ability§Side Step"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Shadow Sun Syndicate"
@@ -13426,7 +12854,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Martian Menace"
@@ -13479,7 +12906,6 @@
             "Action§Scavenge"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Green Fury"
@@ -13533,7 +12959,6 @@
             "Ability§Commander"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Green Fury"
@@ -13587,7 +13012,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Planet Eaters"
@@ -13642,7 +13066,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Planet Eaters"
@@ -13690,7 +13113,6 @@
             "Ability§Quick Fire"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Green Fury"
@@ -13721,7 +13143,6 @@
             "Ability§Shadow Field"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Shadow Sun Syndicate"
@@ -13760,7 +13181,6 @@
             "Ability§Flank"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Shadow Sun Syndicate"
@@ -13799,7 +13219,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "UberCorp International"
@@ -13839,7 +13258,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "UberCorp International"
@@ -13896,7 +13314,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "UberCorp International"
@@ -13938,7 +13355,6 @@
             }
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Legion of Mutates"
@@ -13981,7 +13397,6 @@
             "Ability§Commander"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Legion of Mutates"
@@ -14025,7 +13440,6 @@
             "Ability§Hover"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Lords of Cthul"
@@ -14070,7 +13484,6 @@
             "Ability§Hover"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Lords of Cthul"
@@ -14114,7 +13527,6 @@
             "Ability§Expend"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Zerkalo Bloc"
@@ -14170,7 +13582,6 @@
             }
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Terrasaurs"
@@ -14212,7 +13623,6 @@
             "Ability§All-Terrain"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Lords of Cthul"
@@ -14255,7 +13665,6 @@
             "Ability§Commander"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Lords of Cthul"
@@ -14285,7 +13694,6 @@
             "Ability§Spotter"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Savage Swarm"
@@ -14339,7 +13747,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Lords of Cthul"
@@ -14394,7 +13801,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Lords of Cthul"
@@ -14448,7 +13854,6 @@
             "Ability§Outrider"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Draken Armada"
@@ -14503,7 +13908,6 @@
             "Ability§Outrider"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Draken Armada"
@@ -14543,7 +13947,6 @@
             "Ability§Dig In"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Tritons"
@@ -14584,7 +13987,6 @@
             "Ability§Dig In"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Tritons"
@@ -14631,7 +14033,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "G.U.A.R.D."
@@ -14679,7 +14080,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "G.U.A.R.D."
@@ -14722,7 +14122,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Shadow Sun Syndicate"
@@ -14766,7 +14165,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Shadow Sun Syndicate"
@@ -14810,7 +14208,6 @@
             "Ability§Motivator"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Lords of Cthul"
@@ -14849,7 +14246,6 @@
             "Ability§Hazardous"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Waste"
@@ -14889,7 +14285,6 @@
             "Ability§Hazardous"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Waste"
@@ -14931,7 +14326,6 @@
             "Ability§Hover"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "UberCorp International"
@@ -14974,7 +14368,6 @@
             "Ability§Hover"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "UberCorp International"
@@ -15019,7 +14412,6 @@
             "Ability§Shield Resonance"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "UberCorp International"
@@ -15067,7 +14459,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Martian Menace"
@@ -15116,7 +14507,6 @@
             "Ability§High Mobility"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Martian Menace"
@@ -15160,7 +14550,6 @@
             "Ability§Nullify"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Masters of the 8th Dimension"
@@ -15204,7 +14593,6 @@
             "Ability§Nullify"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Masters of the 8th Dimension"
@@ -15233,7 +14621,6 @@
             "Ability§Beachhead"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Zerkalo Bloc"
@@ -15272,7 +14659,6 @@
             "Ability§Hunker"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Draken Armada"
@@ -15325,7 +14711,6 @@
             "Ability§All-Terrain"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Zerkalo Bloc"
@@ -15379,7 +14764,6 @@
             "Ability§Commander"
           ]
         },
-        "classification": "Unit",
         "keywords": {
           "Faction": [
             "Zerkalo Bloc"
