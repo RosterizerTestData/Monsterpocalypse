@@ -1,11 +1,12 @@
 {
   "name": "Monpoc2",
-  "revision": null,
+  "revision": "0.1.0",
   "game": "Monsterpocalypse",
   "genre": "sci-fi",
   "publisher": "Privateer Press",
   "url": "https://monsterpocalypse.com/",
   "notes": "This manifest is provided for the purposes of testing *Rosterizer* and is not intended for distribution.",
+  "wip":false,
   "manifest": {
     "assetTaxonomy": {
       "Ability": {},
@@ -21,7 +22,6 @@
       "Build": {},
       "Building": {
         "aspects": {
-          "Class Order": 1,
           "Group Traits": true,
           "Lock Qty": true,
           "Type": "game piece"
@@ -43,7 +43,6 @@
             "statType": "numeric",
             "icons": [],
             "statOrder": 1,
-            "meta": "action",
             "visibility": "always"
           },
           "B": {
@@ -54,7 +53,6 @@
               "round-star"
             ],
             "statOrder": 2,
-            "meta": "boost",
             "visibility": "always"
           }
         }
@@ -109,7 +107,6 @@
       "Trigger": {},
       "Unit": {
         "aspects": {
-          "Class Order": 2,
           "Group Traits": true,
           "Type": "game piece",
           "Unique": true
@@ -9298,18 +9295,18 @@
         },
         "stats": {
           "Agenda": {
-            "display": "dynamic",
+            "dynamic": true,
             "ranks": {
               "0": {
-                "label": "-",
+                "format": "-",
                 "order": 0
               },
               "1": {
-                "label": "Protectors",
+                "format": "Protectors",
                 "order": 1
               },
               "2": {
-                "label": "Destroyers",
+                "format": "Destroyers",
                 "order": 2
               }
             },
