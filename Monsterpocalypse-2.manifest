@@ -1,12 +1,12 @@
 {
   "name": "Monpoc2",
-  "revision": "0.1.0",
+  "revision": "2.0.0",
   "game": "Monsterpocalypse",
   "genre": "sci-fi",
   "publisher": "Privateer Press",
   "url": "https://monsterpocalypse.com/",
   "notes": "This manifest is provided for the purposes of testing *Rosterizer* and is not intended for distribution.",
-  "wip":false,
+  "wip": false,
   "manifest": {
     "assetTaxonomy": {
       "Ability": {},
@@ -28,31 +28,31 @@
         },
         "stats": {
           "Defense": {
-            "value": 0,
             "icons": [
               "shield"
-            ]
+            ],
+            "value": 0
           }
         }
       },
       "Combat": {
         "stats": {
           "A": {
-            "value": 0,
-            "label": " ",
-            "statType": "numeric",
             "icons": [],
+            "label": " ",
             "statOrder": 1,
+            "statType": "numeric",
+            "value": 0,
             "visibility": "always"
           },
           "B": {
-            "value": 0,
-            "label": " ",
-            "statType": "numeric",
             "icons": [
               "round-star"
             ],
+            "label": " ",
             "statOrder": 2,
+            "statType": "numeric",
+            "value": 0,
             "visibility": "always"
           }
         }
@@ -74,32 +74,32 @@
           "Unique": true
         },
         "stats": {
-          "Speed": {
-            "value": 0,
-            "label": "SPD",
-            "statType": "numeric",
-            "icons": [
-              "wide-arrow-dunk"
-            ],
-            "visibility": "always"
-          },
           "Defense": {
-            "value": 0,
-            "label": "DEF",
-            "statType": "numeric",
             "icons": [
               "shield"
             ],
+            "label": "DEF",
             "statOrder": 1,
+            "statType": "numeric",
+            "value": 0,
             "visibility": "always"
           },
           "Health": {
-            "value": 0,
-            "statType": "numeric",
             "icons": [
               "heart-drop"
             ],
             "statOrder": 1,
+            "statType": "numeric",
+            "value": 0,
+            "visibility": "always"
+          },
+          "Speed": {
+            "icons": [
+              "wide-arrow-dunk"
+            ],
+            "label": "SPD",
+            "statType": "numeric",
+            "value": 0,
             "visibility": "always"
           }
         }
@@ -113,29 +113,29 @@
         },
         "stats": {
           "Cost": {
-            "value": 0,
-            "statOrder": 1,
             "icons": [
               "two-coins"
             ],
+            "statOrder": 1,
+            "value": 0,
             "visibility": "always"
           },
           "Defense": {
-            "value": 0,
-            "label": "DEF",
-            "statOrder": 1,
             "icons": [
               "shield"
             ],
+            "label": "DEF",
+            "statOrder": 1,
+            "value": 0,
             "visibility": "always"
           },
           "Speed": {
-            "value": 0,
-            "label": "SPD",
-            "statType": "numeric",
             "icons": [
               "wide-arrow-dunk"
             ],
+            "label": "SPD",
+            "statType": "numeric",
+            "value": 0,
             "visibility": "always"
           }
         }
@@ -1392,10 +1392,10 @@
       "Combat§Blast": {
         "stats": {
           "A": {
-            "value": 0,
             "icons": [
               "comet-spark"
-            ]
+            ],
+            "value": 0
           },
           "Range": {
             "label": "RNG",
@@ -1415,10 +1415,10 @@
       "Combat§Power": {
         "stats": {
           "A": {
-            "value": 0,
             "icons": [
               "whirlpool-shuriken"
-            ]
+            ],
+            "value": 0
           }
         }
       },
