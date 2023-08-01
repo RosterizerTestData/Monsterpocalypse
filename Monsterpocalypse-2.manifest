@@ -1,6 +1,6 @@
 {
   "name": "Monpoc2",
-  "revision": "2.0.0",
+  "revision": "2.1.0",
   "game": "Monsterpocalypse",
   "genre": "sci-fi",
   "publisher": "Privateer Press",
@@ -101,6 +101,153 @@
             "statType": "numeric",
             "value": 0,
             "visibility": "always"
+          }
+        }
+      },
+      "Round": {
+        "aspects": {
+          "Describe": true
+        },
+        "rules": {
+          "numberRound": {
+            "actions": [
+              {
+                "actionType": "modify",
+                "iterations": 1,
+                "paths": [
+                  [
+                    "{self}",
+                    "designation"
+                  ]
+                ],
+                "value": [
+                  "{self}",
+                  "rules",
+                  "numberRound",
+                  "evals",
+                  "0",
+                  "result",
+                  "integer"
+                ]
+              }
+            ],
+            "evals": [
+              {
+                "actionable": true,
+                "equation": {
+                  "operator": "T+O",
+                  "value": 1
+                },
+                "not": false,
+                "operator": "AND",
+                "paths": [
+                  [
+                    "{self}",
+                    "index"
+                  ]
+                ]
+              }
+            ],
+            "evaluate": "AND",
+            "failState": "pass"
+          }
+        },
+        "stats": {
+          "Destroyed": {
+            "dynamic": true,
+            "increment": {
+              "value": 1
+            },
+            "max": 2,
+            "min": 0,
+            "statOrder": 3,
+            "statType": "numeric",
+            "value": 0,
+            "visibility": "normal"
+          },
+          "Health": {
+            "dynamic": true,
+            "increment": {
+              "value": 1
+            },
+            "max": 26,
+            "min": 0,
+            "statOrder": 4,
+            "statType": "numeric",
+            "value": 0,
+            "visibility": "normal"
+          },
+          "Opponent": {
+            "dynamic": true,
+            "statType": "term",
+            "value": "",
+            "visibility": "normal"
+          },
+          "Result": {
+            "dynamic": true,
+            "ranks": {
+              "-": {
+                "order": 0
+              },
+              "W": {
+                "order": 1
+              },
+              "L": {
+                "order": 2
+              },
+              "T": {
+                "order": 3
+              }
+            },
+            "statOrder": 2,
+            "statType": "rank",
+            "value": "-",
+            "visibility": "normal"
+          }
+        }
+      },
+      "Tournament": {
+        "aspects": {
+          "Describe": true,
+          "Rename": true
+        },
+        "rules": {
+          "fillRounds": {
+            "actions": [
+              {
+                "actionType": "add",
+                "iterations": [
+                  "{self}",
+                  "stats",
+                  "Rounds",
+                  "value"
+                ],
+                "paths": [
+                  [
+                    "{self}",
+                    "traits"
+                  ]
+                ],
+                "value": "Round§Round"
+              }
+            ],
+            "evals": [],
+            "evaluate": "AND",
+            "failState": "pass",
+            "order": 1
+          }
+        },
+        "stats": {
+          "Rounds": {
+            "dynamic": true,
+            "increment": {
+              "value": 1
+            },
+            "max": 5,
+            "min": 1,
+            "statType": "numeric",
+            "value": 3,
+            "visibility": "normal"
           }
         }
       },
@@ -9293,27 +9440,88 @@
           "Type": "conceptual",
           "Unique": true
         },
+        "rules": {
+          "Select your agenda.": {
+            "actions": [
+              {
+                "actionType": "add",
+                "iterations": 1,
+                "paths": [
+                  [
+                    "{self}",
+                    "constraints",
+                    "any"
+                  ]
+                ],
+                "value": [
+                  "{self}",
+                  "stats",
+                  "Agenda",
+                  "value"
+                ]
+              }
+            ],
+            "evals": [
+              {
+                "actionable": true,
+                "not": true,
+                "operator": "AND",
+                "paths": [
+                  [
+                    "{self}",
+                    "stats",
+                    "Agenda",
+                    "value"
+                  ]
+                ],
+                "value": "-"
+              }
+            ],
+            "evaluate": "AND",
+            "failState": "warning"
+          }
+        },
         "stats": {
           "Agenda": {
             "dynamic": true,
             "ranks": {
-              "0": {
-                "format": "-",
+              "-": {
                 "order": 0
               },
-              "1": {
-                "format": "Protectors",
+              "Protectors": {
                 "order": 1
               },
-              "2": {
-                "format": "Destroyers",
+              "Destroyers": {
                 "order": 2
               }
             },
-            "statType": "rank"
+            "statType": "rank",
+            "value": "-",
+            "visibility": "normal"
+          },
+          "Play": {
+            "dynamic": true,
+            "ranks": {
+              "Casual": {
+                "order": 0
+              },
+              "Tournament": {
+                "order": 1,
+                "traits": [
+                  {
+                    "trait": "Tournament§Tournament"
+                  }
+                ]
+              }
+            },
+            "statType": "rank",
+            "value": "Casual",
+            "visibility": "normal"
           }
         }
       },
+      "Round§Round": {},
+      "Tournament§Tournament": {},
       "Trigger§Air Drop": {
         "text": "When this model performs a throw power attack, the target monster can be placed up to two spaces further away than the number of power dice rolled."
       },
