@@ -1,6 +1,6 @@
 {
   "name": "Monpoc2",
-  "revision": "2.1.0",
+  "revision": "2.2.0",
   "game": "Monsterpocalypse",
   "genre": "sci-fi",
   "publisher": "Privateer Press",
@@ -9424,7 +9424,7 @@
           ]
         }
       },
-      "Roster§Force": {
+      "Roster§Roster": {
         "allowed": {
           "classifications": [
             "Monster",
@@ -9435,6 +9435,7 @@
         "aspects": {
           "Describe": true,
           "Group Includes": true,
+          "Label": "Force",
           "Lock Qty": true,
           "Rename": true,
           "Type": "conceptual",
