@@ -121,9 +121,7 @@
                   ]
                 ],
                 "value": [
-                  "{self}",
-                  "rules",
-                  "numberRound",
+                  "{this}",
                   "evals",
                   "0",
                   "result",
